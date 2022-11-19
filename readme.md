@@ -1,8 +1,12 @@
 # ATIVIDADE PRÁTICA: LÓGICA DE PROGRAMAÇÃO E ALGORITMOS
-<img src="assets/exercicio01.png">Exercicio-01<img>
+<img src="assets/exercicio01.png">
+
+Exercicio-01
 <br>
 
-<img src="assets/exercicio02.png">Exercicio-02<img>
+<img src="assets/exercicio02.png">
+
+Exercicio-02
 <br>
 
 <img src="assets/exercicio03.png">
